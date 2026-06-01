@@ -1,0 +1,6 @@
+{
+  "name": "OmniPOS Landing Page",
+  "description": "High-fidelity, responsive landing page and interactive POS Transaction Workspace featuring smooth scroll transitions, contact form, and cart checkout system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
